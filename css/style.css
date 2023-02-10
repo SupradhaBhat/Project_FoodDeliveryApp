@@ -104,6 +104,10 @@ html{
     font-size: 2.0rem;
     font-family: 'Bree Serif', serif;
 }
+#home button:hover{
+    color : black;
+    background-color : rgb(188, 81, 81); 
+}
 /* Services Section */
 #catalogue{
     margin: 34px;
