@@ -126,6 +126,9 @@ html{
     height: 200px;
     width: 300px;
 }
+#catalogue .box:hover{ 
+    background: #faf7c5;
+}
 
 #catalogue .box img{ 
    height: 150px;
